@@ -1,0 +1,12 @@
+C:\Users\Wiktor\Desktop\KREDEK\wiktor_porowski_cpc2021-2\laboratorium2\praca domowa\WiktorPorowskiLab2\WiktorPorowskiLab2\WiktorPorowskiLab2\bin\Debug\WiktorPorowskiLab2.exe.config
+C:\Users\Wiktor\Desktop\KREDEK\wiktor_porowski_cpc2021-2\laboratorium2\praca domowa\WiktorPorowskiLab2\WiktorPorowskiLab2\WiktorPorowskiLab2\bin\Debug\WiktorPorowskiLab2.exe
+C:\Users\Wiktor\Desktop\KREDEK\wiktor_porowski_cpc2021-2\laboratorium2\praca domowa\WiktorPorowskiLab2\WiktorPorowskiLab2\WiktorPorowskiLab2\bin\Debug\WiktorPorowskiLab2.pdb
+C:\Users\Wiktor\Desktop\KREDEK\wiktor_porowski_cpc2021-2\laboratorium2\praca domowa\WiktorPorowskiLab2\WiktorPorowskiLab2\WiktorPorowskiLab2\obj\Debug\WiktorPorowskiLab2.csprojAssemblyReference.cache
+C:\Users\Wiktor\Desktop\KREDEK\wiktor_porowski_cpc2021-2\laboratorium2\praca domowa\WiktorPorowskiLab2\WiktorPorowskiLab2\WiktorPorowskiLab2\obj\Debug\WiktorPorowskiLab2.FormMain.resources
+C:\Users\Wiktor\Desktop\KREDEK\wiktor_porowski_cpc2021-2\laboratorium2\praca domowa\WiktorPorowskiLab2\WiktorPorowskiLab2\WiktorPorowskiLab2\obj\Debug\WiktorPorowskiLab2.Properties.Resources.resources
+C:\Users\Wiktor\Desktop\KREDEK\wiktor_porowski_cpc2021-2\laboratorium2\praca domowa\WiktorPorowskiLab2\WiktorPorowskiLab2\WiktorPorowskiLab2\obj\Debug\WiktorPorowskiLab2.csproj.GenerateResource.cache
+C:\Users\Wiktor\Desktop\KREDEK\wiktor_porowski_cpc2021-2\laboratorium2\praca domowa\WiktorPorowskiLab2\WiktorPorowskiLab2\WiktorPorowskiLab2\obj\Debug\WiktorPorowskiLab2.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\Desktop\KREDEK\wiktor_porowski_cpc2021-2\laboratorium2\praca domowa\WiktorPorowskiLab2\WiktorPorowskiLab2\WiktorPorowskiLab2\obj\Debug\WiktorPorowskiLab2.exe
+C:\Users\Wiktor\Desktop\KREDEK\wiktor_porowski_cpc2021-2\laboratorium2\praca domowa\WiktorPorowskiLab2\WiktorPorowskiLab2\WiktorPorowskiLab2\obj\Debug\WiktorPorowskiLab2.pdb
+C:\Users\Wiktor\Desktop\KREDEK\wiktor_porowski_cpc2021-2\laboratorium2\praca domowa\WiktorPorowskiLab2\WiktorPorowskiLab2\WiktorPorowskiLab2\obj\Debug\WiktorPorowskiLab2.FormLogin.resources
+C:\Users\Wiktor\Desktop\KREDEK\wiktor_porowski_cpc2021-2\laboratorium2\praca domowa\WiktorPorowskiLab2\WiktorPorowskiLab2\WiktorPorowskiLab2\obj\Debug\WiktorPorowskiLab2.FormDamage.resources
